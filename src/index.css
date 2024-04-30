@@ -1,0 +1,8 @@
+/* html,
+* {
+  background-color: #19202a;
+  color: #fff;
+} */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
